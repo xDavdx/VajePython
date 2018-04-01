@@ -33,6 +33,4 @@ for one in soupers.find_all("a", attrs={"class": "_2g7d5 notranslate _o5iw8"}):
 #    2. seznam naj vsebuje: userje, ki jim slediš in oni tebi ne
 #    3. seznam naj vsebuje: userje, ki jim ti ne slediš, a oni tebe sledijo
 
-print("dafko je največja budala")
-
 
